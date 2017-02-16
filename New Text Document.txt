@@ -1,3 +1,4 @@
 Trial GIT Test
 OK done, 
 New trial of Smart Git
+trial
